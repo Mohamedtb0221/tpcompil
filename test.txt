@@ -1,0 +1,20 @@
+#calcul
+#tab
+
+program Hello{
+// hello //
+	char const C;
+	int B[10],B[10];
+	int C,B;
+	A=12;
+	A=B*C+D; 
+	A="hello";
+	print("hello");// hello //
+	read(A[2]);
+	for(I=0 : 2:5){
+	A=B;
+	}
+	if(I<2){ A=B;}// hello //
+}
+
+
